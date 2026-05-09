@@ -1,6 +1,6 @@
 # Default ignored files
 /LatexProject.iml
-/out/
+/out/*
 !/out/main.pdf
 /auxil/
 /.idea/
